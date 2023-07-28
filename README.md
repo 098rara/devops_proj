@@ -1,1 +1,2 @@
-# devops_proj
+# devops_proj class
+learning git 
